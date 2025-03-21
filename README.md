@@ -43,9 +43,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswnvm&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aswnvm&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswnvm&theme=radical" alt="GitHub Streak"/>
@@ -53,9 +53,10 @@
 
 ---
 
-### 🚀 **Fun Fact**
-💡 *I love learning new technologies and solving real-world problems with code!*
-
 <p align="center">
   <img src="https://github.com/aswnvm/aswnvm/blob/output/snake.svg" alt="Snake animation" />
 </p>
+
+### 🚀 **Fun Fact**
+💡 *I love learning new technologies and solving real-world problems with code!*
+
