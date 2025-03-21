@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aswnvm/aswnvm/main/background.jpg" alt="Background Image" width="50%"/>
+  <img src="https://raw.githubusercontent.com/aswnvm/aswnvm/main/background.jpg" alt="Background Image" width="30%"/>
 </p>
 
 ---
