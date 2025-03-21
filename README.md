@@ -55,3 +55,7 @@
 
 ### 🚀 **Fun Fact**
 💡 *I love learning new technologies and solving real-world problems with code!*
+
+<p align="center">
+  <img src="https://github.com/aswnvm/aswnvm/blob/output/snake.svg" alt="Snake animation" />
+</p>
