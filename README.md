@@ -9,7 +9,7 @@
 ---
 
 ```javascript
-const aswn = {
+const aswnvm = {
     askMeAbout: ["AI", "Cloud Computing", "Full-Stack Development", "Cybersecurity"],
     technologies: {
         programmingLanguages: ["JavaScript", "Python", "Java"],
